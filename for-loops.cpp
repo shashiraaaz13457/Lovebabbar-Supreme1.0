@@ -26,10 +26,42 @@ int main(){
     //     cout<< i <<endl;
     // }
 
-    for (int i = 5; (i >= 0 && i<=10); i++)
+    // for (int i = 5; (i >= 0 && i<=10); i++)
+    // {
+    //     cout<< i << endl;
+    // }
+
+    // This code is also valid so don't scare of it.
+    // int i = 0;
+    // for (; ; )
+    // {
+    //     if (i<5)
+    //     {
+    //         cout<< i << endl;
+    //         i++;
+    //     }
+        
+    // }
+
+    int n;
+    // if (cin >> n)
+    // {
+    //     cout<<"Shashi" <<endl;
+    // }
+
+    // if (cout<< "Shashi")
+    // {
+    //     cout<<"Raj";
+    // }
+
+    if (2)
     {
-        cout<< i << endl;
+        cout<<"Shashi"<<endl;
     }
+    
+    
+    
+    
     
 }
 

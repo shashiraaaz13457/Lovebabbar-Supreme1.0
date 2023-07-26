@@ -1,4 +1,9 @@
-for(int i = 1; i<=10; i = i*2){
-    //     cout<< i <<endl;
-    //     //op- 1 2 4 8 
+for (int row = 0; row < 3; row = row+1)
+    // {
+    //     //inner-loop = col
+    //     for (int col = 0; col < 5; col+=1)
+    //     {
+    //         cout<< " * " ;
+    //     }
+    //     cout << endl;
     // }
