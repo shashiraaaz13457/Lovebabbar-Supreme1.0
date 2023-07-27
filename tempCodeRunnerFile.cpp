@@ -1,9 +1,4 @@
-for (int row = 0; row < 3; row = row+1)
-    // {
-    //     //inner-loop = col
-    //     for (int col = 0; col < 5; col+=1)
-    //     {
-    //         cout<< " * " ;
-    //     }
-    //     cout << endl;
-    // }
+int ele = 2 * (n - i - 1);
+    for (int j = 1; j <= i - 1; j++) {
+      printf("%d ", ele--);
+    }
