@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Self Solved but takes 1hr to solve.
+//Self Solved but takes 1hr to solve.(Try for better approach)
 
 int main(){
     int n;

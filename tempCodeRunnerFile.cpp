@@ -1,3 +1,1 @@
-else{
-                //     cout<<"#"<<row+1;
-                // }
+int c = b /a; 
