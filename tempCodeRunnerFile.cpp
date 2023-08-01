@@ -1,1 +1,4 @@
-int c = b /a; 
+for (int col = 0; col < ; i++)
+        // {
+        //     /* code */
+        // }
