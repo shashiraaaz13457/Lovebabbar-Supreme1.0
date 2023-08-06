@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Not solved for general (for every number)
+//Good one ,it just too much for me at that time.
 
 int main(){
     int n;
@@ -37,8 +37,10 @@ int main(){
     }
     for (int row = 0; row < n-1; row++)
     {
+        int start = n-row-3;
         for (int col = 0; col < 2*(n-row)-3; col++)
         {
+            
             if (col == 0 || col == 2*(n-row)-4)
             {
                 cout<<"*";
@@ -47,9 +49,11 @@ int main(){
             {
                 cout<<"1";
             }
+            
             else if (col > n-row-2)
             {
-                // cout<<;
+                cout<<start;
+                start--;
 
             }
             
